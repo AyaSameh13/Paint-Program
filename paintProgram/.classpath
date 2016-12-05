@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/DELL_1/Desktop/paint-program/External Libraries/com.thoughtworks.xstream.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL_1/Desktop/paint-program/External Libraries/json-simple-1.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="D:/for me/github/paint-program/paintProgram/External Libraries/com.thoughtworks.xstream.jar"/>
+	<classpathentry kind="lib" path="D:/for me/github/paint-program/paintProgram/External Libraries/json-simple-1.1.1 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

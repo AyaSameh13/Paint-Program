@@ -1,8 +1,3 @@
-# Paint-Program
-A paint program that supports drawing basic shapes ( circle , rectangle, triangle, line, square and ellipse) , The program also supports dynamic class loading so the user can add more shapes. The basic features of the program is saving, loading, undo, redo and coloring. Saving supports XML and JSON. This project was a team of two project (Salma Hesham and Aya Sameh )
-
-
-***
 # Paint Program Wiki
 ***
 <a href="https://ibb.co/h71Y85"><img src="https://preview.ibb.co/fSi21Q/paint01.jpg" alt="paint01" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />

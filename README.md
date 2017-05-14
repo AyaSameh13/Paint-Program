@@ -24,7 +24,7 @@ The user is allowed to select an object by clicking on it, and then start to res
 
 To select drawing color, first choose the color then start drawing with it, For filling a color, choose the color then select the bucket then color the desired shape
 
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/iiEH1Q/Clipboard_image_2017_05_14_03_23_52.png" alt="Clipboard_image_2017_05_14_03_23_52" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>pictures upload sites</a><br />
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/iiEH1Q/Clipboard_image_2017_05_14_03_23_52.png" alt="Clipboard_image_2017_05_14_03_23_52" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 ***
 
